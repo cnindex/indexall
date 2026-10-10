@@ -4,6 +4,13 @@ site:
   title: 创约系列
   structure:
     - type: space
+      key: space-indexgt5
+      title: 创约·魔法禁书目录5
+      path: gt5
+      content:
+        directory: ./gt5
+        language: zh
+    - type: space
       key: space-indexgt6
       title: 创约·魔法禁书目录6
       path: gt6
