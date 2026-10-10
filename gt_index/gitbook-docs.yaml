@@ -4,10 +4,17 @@ site:
   title: 创约系列
   structure:
     - type: space
+      key: space-indexgt1
+      title: 创约·魔法禁书目录1
+      path: gt1
+      default: true
+      content:
+        directory: ./gt1
+        language: zh
+    - type: space
       key: space-indexgt2
       title: 创约·魔法禁书目录2
       path: gt2
-      default: true
       content:
         directory: ./gt2
         language: zh
