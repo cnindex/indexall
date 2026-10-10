@@ -4,4 +4,4 @@
 
 由某树状图的汉化组汉化并发布
 
-![0](img/-1.jpg)
+![0](.gitbook/assets/-1.jpg)
