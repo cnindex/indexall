@@ -7,6 +7,7 @@ site:
       key: space-indexgt5
       title: 创约·魔法禁书目录5
       path: gt5
+      default: true
       content:
         directory: ./gt5
         language: zh
@@ -14,7 +15,13 @@ site:
       key: space-indexgt6
       title: 创约·魔法禁书目录6
       path: gt6
-      default: true
       content:
         directory: ./gt6
+        language: zh
+    - type: space
+      key: space-indexgt7
+      title: 创约·魔法禁书目录7
+      path: gt7
+      content:
+        directory: ./gt7
         language: zh
