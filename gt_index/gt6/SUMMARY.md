@@ -1,5 +1,7 @@
 # Summary
 
+## 创约·魔法禁书目录6
+
 * [简介](README.md)
 * [目录与彩插](post/index.md)
 * [序章 体重意外地不会下降](post/0.md)
