@@ -59,3 +59,10 @@ site:
       content:
         directory: ./gt8
         language: zh
+    - type: space
+      key: space-indexgt9
+      title: 创约·魔法禁书目录9
+      path: gt9
+      content:
+        directory: ./gt9
+        language: zh
