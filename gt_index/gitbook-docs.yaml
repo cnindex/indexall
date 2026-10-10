@@ -52,3 +52,10 @@ site:
       content:
         directory: ./gt7
         language: zh
+    - type: space
+      key: space-indexgt8
+      title: 创约·魔法禁书目录8
+      path: gt8
+      content:
+        directory: ./gt8
+        language: zh
