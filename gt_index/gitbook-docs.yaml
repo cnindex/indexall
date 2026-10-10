@@ -73,3 +73,10 @@ site:
       content:
         directory: ./gt10
         language: zh
+    - type: space
+      key: space-indexgt11
+      title: 创约·魔法禁书目录11
+      path: gt11
+      content:
+        directory: ./gt11
+        language: zh
