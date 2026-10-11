@@ -164,3 +164,10 @@ site:
       content:
         directory: ./ot20
         language: zh
+    - type: space
+      key: space-indexot21
+      title: 旧约·魔法禁书目录21
+      path: ot21
+      content:
+        directory: ./ot21
+        language: zh
