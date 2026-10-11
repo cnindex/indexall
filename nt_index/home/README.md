@@ -1,5 +1,5 @@
 ---
-description: "《新约·魔法禁书目录》系列中文阅读站，收录第一卷至第十五卷。"
+description: "《新约·魔法禁书目录》系列中文阅读站，收录第一卷至第十六卷。"
 icon: books
 layout:
   width: wide
@@ -22,7 +22,7 @@ layout:
 没有上条当麻的世界，故事由此迈向新的阶段。
 
 {% hint style="info" icon="book-open" %}
-目前收录《新约·魔法禁书目录》第一卷至第十五卷。更多卷目将陆续加入。
+目前收录《新约·魔法禁书目录》第一卷至第十六卷。更多卷目将陆续加入。
 {% endhint %}
 
 ## 卷目
@@ -52,5 +52,6 @@ layout:
     <tr><td><strong>第十三卷</strong></td><td>地球灭亡之际，上条与美琴的追逐战开幕。</td><td><a href="https://cnindex.gitbook.io/xin-yue-xi-lie/nt13">进入第十三卷</a></td><td><a href="assets/nt13.jpg">nt13.jpg</a></td></tr>
     <tr><td><strong>第十四卷</strong></td><td>「幻想杀手」对决「理想放逐」。</td><td><a href="https://cnindex.gitbook.io/xin-yue-xi-lie/nt14">进入第十四卷</a></td><td><a href="assets/nt14.jpg">nt14.jpg</a></td></tr>
     <tr><td><strong>第十五卷</strong></td><td>上里现身，上条的日常轰然崩溃。</td><td><a href="https://cnindex.gitbook.io/xin-yue-xi-lie/nt15">进入第十五卷</a></td><td><a href="assets/nt15.jpg">nt15.jpg</a></td></tr>
+    <tr><td><strong>第十六卷</strong></td><td>全校动员，从「元素」手中守护「圣域」。</td><td><a href="https://cnindex.gitbook.io/xin-yue-xi-lie/nt16">进入第十六卷</a></td><td><a href="assets/nt16.jpg">nt16.jpg</a></td></tr>
   </tbody>
 </table>
