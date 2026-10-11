@@ -108,3 +108,10 @@ site:
       content:
         directory: ./nt14
         language: zh
+    - type: space
+      key: space-indexnt15
+      title: 新约·魔法禁书目录15
+      path: nt15
+      content:
+        directory: ./nt15
+        language: zh
