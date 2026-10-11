@@ -38,3 +38,10 @@ site:
       content:
         directory: ./ot4
         language: zh
+    - type: space
+      key: space-indexot5
+      title: 旧约·魔法禁书目录5
+      path: ot5
+      content:
+        directory: ./ot5
+        language: zh
