@@ -1,0 +1,19 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: 旧约系列
+  structure:
+    - type: space
+      key: space-indexothome
+      title: 旧约系列
+      path: home
+      default: true
+      content:
+        directory: ./home
+        language: zh
+    - type: space
+      key: space-indexot1
+      title: 旧约·魔法禁书目录1
+      path: ot1
+      content:
+        directory: ./ot1
+        language: zh
