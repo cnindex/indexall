@@ -1,5 +1,5 @@
 ---
-description: "《旧约·魔法禁书目录》系列中文阅读站，收录第一卷至第二卷。"
+description: "《旧约·魔法禁书目录》系列中文阅读站，收录第一卷至第三卷。"
 icon: books
 layout:
   width: wide
@@ -22,7 +22,7 @@ layout:
 科学与魔法交汇之时，一切故事由此开始。
 
 {% hint style="info" icon="book-open" %}
-目前收录《旧约·魔法禁书目录》第一卷至第二卷。更多卷目将陆续加入。
+目前收录《旧约·魔法禁书目录》第一卷至第三卷。更多卷目将陆续加入。
 {% endhint %}
 
 ## 卷目
@@ -39,5 +39,6 @@ layout:
   <tbody>
     <tr><td><strong>第一卷</strong></td><td>「超能力」与「魔法」交汇，故事由此开始。</td><td><a href="https://cnindex.gitbook.io/jiu-yue/ot1">进入第一卷</a></td><td><a href="assets/ot1.jpg">ot1.jpg</a></td></tr>
     <tr><td><strong>第二卷</strong></td><td>魔法师、吸血杀手与禁书目录的支线交汇。</td><td><a href="https://cnindex.gitbook.io/jiu-yue/ot2">进入第二卷</a></td><td><a href="assets/ot2.jpg">ot2.jpg</a></td></tr>
+    <tr><td><strong>第三卷</strong></td><td>一方通行、茵蒂克丝与上条当麻的支线交汇。</td><td><a href="https://cnindex.gitbook.io/jiu-yue/ot3">进入第三卷</a></td><td><a href="assets/ot3.jpg">ot3.jpg</a></td></tr>
   </tbody>
 </table>
