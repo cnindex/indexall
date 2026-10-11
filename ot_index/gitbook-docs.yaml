@@ -73,3 +73,10 @@ site:
       content:
         directory: ./ot9
         language: zh
+    - type: space
+      key: space-indexot10
+      title: 旧约·魔法禁书目录10
+      path: ot10
+      content:
+        directory: ./ot10
+        language: zh

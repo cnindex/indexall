@@ -1,5 +1,5 @@
 ---
-description: "《旧约·魔法禁书目录》系列中文阅读站，收录第一卷至第九卷。"
+description: "《旧约·魔法禁书目录》系列中文阅读站，收录第一卷至第十卷。"
 icon: books
 layout:
   width: wide
@@ -22,7 +22,7 @@ layout:
 科学与魔法交汇之时，一切故事由此开始。
 
 {% hint style="info" icon="book-open" %}
-目前收录《旧约·魔法禁书目录》第一卷至第九卷。更多卷目将陆续加入。
+目前收录《旧约·魔法禁书目录》第一卷至第十卷。更多卷目将陆续加入。
 {% endhint %}
 
 ## 卷目
@@ -46,5 +46,6 @@ layout:
     <tr><td><strong>第七卷</strong></td><td>少年卷入三方势力的修女争夺战。</td><td><a href="https://cnindex.gitbook.io/jiu-yue/ot7">进入第七卷</a></td><td><a href="assets/ot7.jpg">ot7.jpg</a></td></tr>
     <tr><td><strong>第八卷</strong></td><td>白井黑子与御坂美琴的学园动作故事。</td><td><a href="https://cnindex.gitbook.io/jiu-yue/ot8">进入第八卷</a></td><td><a href="assets/ot8.jpg">ot8.jpg</a></td></tr>
     <tr><td><strong>第九卷</strong></td><td>「大霸星祭」遭到神秘魔法入侵。</td><td><a href="https://cnindex.gitbook.io/jiu-yue/ot9">进入第九卷</a></td><td><a href="assets/ot9.jpg">ot9.jpg</a></td></tr>
+    <tr><td><strong>第十卷</strong></td><td>「使徒十字」在「大霸星祭」掀起波澜。</td><td><a href="https://cnindex.gitbook.io/jiu-yue/ot10">进入第十卷</a></td><td><a href="assets/ot10.jpg">ot10.jpg</a></td></tr>
   </tbody>
 </table>
