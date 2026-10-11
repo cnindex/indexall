@@ -38,3 +38,10 @@ site:
       content:
         directory: ./nt4
         language: zh
+    - type: space
+      key: space-indexnt5
+      title: 新约·魔法禁书目录5
+      path: nt5
+      content:
+        directory: ./nt5
+        language: zh
