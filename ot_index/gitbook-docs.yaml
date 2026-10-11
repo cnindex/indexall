@@ -31,3 +31,10 @@ site:
       content:
         directory: ./ot3
         language: zh
+    - type: space
+      key: space-indexot4
+      title: 旧约·魔法禁书目录4
+      path: ot4
+      content:
+        directory: ./ot4
+        language: zh
