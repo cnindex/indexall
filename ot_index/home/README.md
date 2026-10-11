@@ -1,5 +1,5 @@
 ---
-description: "《旧约·魔法禁书目录》系列中文阅读站，收录第一卷至第七卷。"
+description: "《旧约·魔法禁书目录》系列中文阅读站，收录第一卷至第八卷。"
 icon: books
 layout:
   width: wide
@@ -22,7 +22,7 @@ layout:
 科学与魔法交汇之时，一切故事由此开始。
 
 {% hint style="info" icon="book-open" %}
-目前收录《旧约·魔法禁书目录》第一卷至第七卷。更多卷目将陆续加入。
+目前收录《旧约·魔法禁书目录》第一卷至第八卷。更多卷目将陆续加入。
 {% endhint %}
 
 ## 卷目
@@ -44,5 +44,6 @@ layout:
     <tr><td><strong>第五卷</strong></td><td>三个人各自不同的暑假最后一天。</td><td><a href="https://cnindex.gitbook.io/jiu-yue/ot5">进入第五卷</a></td><td><a href="assets/ot5.jpg">ot5.jpg</a></td></tr>
     <tr><td><strong>第六卷</strong></td><td>谜之转校生、朋友与某位魔法师。</td><td><a href="https://cnindex.gitbook.io/jiu-yue/ot6">进入第六卷</a></td><td><a href="assets/ot6.jpg">ot6.jpg</a></td></tr>
     <tr><td><strong>第七卷</strong></td><td>少年卷入三方势力的修女争夺战。</td><td><a href="https://cnindex.gitbook.io/jiu-yue/ot7">进入第七卷</a></td><td><a href="assets/ot7.jpg">ot7.jpg</a></td></tr>
+    <tr><td><strong>第八卷</strong></td><td>白井黑子与御坂美琴的学园动作故事。</td><td><a href="https://cnindex.gitbook.io/jiu-yue/ot8">进入第八卷</a></td><td><a href="assets/ot8.jpg">ot8.jpg</a></td></tr>
   </tbody>
 </table>

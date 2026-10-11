@@ -59,3 +59,10 @@ site:
       content:
         directory: ./ot7
         language: zh
+    - type: space
+      key: space-indexot8
+      title: 旧约·魔法禁书目录8
+      path: ot8
+      content:
+        directory: ./ot8
+        language: zh
