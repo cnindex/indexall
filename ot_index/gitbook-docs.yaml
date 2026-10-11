@@ -157,3 +157,10 @@ site:
       content:
         directory: ./ot19
         language: zh
+    - type: space
+      key: space-indexot20
+      title: 旧约·魔法禁书目录20
+      path: ot20
+      content:
+        directory: ./ot20
+        language: zh
