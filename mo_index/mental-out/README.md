@@ -1,6 +1,23 @@
-# 介绍
+---
+description: "《某科学的心理掌握》中文漫画在线阅读，按话整理并针对网页加载进行分篇。"
+icon: book-open
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: false
+  metadata:
+    visible: false
+---
 
-某科学的心理掌握
+# 某科学的心理掌握
 
 ![](images/cover1.jpg)
 
