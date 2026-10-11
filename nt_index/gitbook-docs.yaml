@@ -45,3 +45,10 @@ site:
       content:
         directory: ./nt5
         language: zh
+    - type: space
+      key: space-indexnt6
+      title: 新约·魔法禁书目录6
+      path: nt6
+      content:
+        directory: ./nt6
+        language: zh
