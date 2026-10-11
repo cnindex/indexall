@@ -87,3 +87,10 @@ site:
       content:
         directory: ./ot11
         language: zh
+    - type: space
+      key: space-indexot12
+      title: 旧约·魔法禁书目录12
+      path: ot12
+      content:
+        directory: ./ot12
+        language: zh
