@@ -37,28 +37,28 @@ layout:
     </tr>
   </thead>
   <tbody>
-    <tr><td><strong>第一卷</strong></td><td>没有上条当麻的世界，以及从黑暗中毕业的人们。</td><td><a href="https://cnindex.gitbook.io/xin-yue-xi-lie/nt1">进入第一卷</a></td><td><a href="assets/nt1.jpg">nt1.jpg</a></td></tr>
-    <tr><td><strong>第二卷</strong></td><td>英雄归来后，故事却突然进入日常恋爱喜剧篇。</td><td><a href="https://cnindex.gitbook.io/xin-yue-xi-lie/nt2">进入第二卷</a></td><td><a href="assets/nt2.jpg">nt2.jpg</a></td></tr>
-    <tr><td><strong>第三卷</strong></td><td>科学与魔法交汇，这次的舞台是夏威夷。</td><td><a href="https://cnindex.gitbook.io/xin-yue-xi-lie/nt3">进入第三卷</a></td><td><a href="assets/nt3.jpg">nt3.jpg</a></td></tr>
-    <tr><td><strong>第四卷</strong></td><td>「木原」一族与「格雷姆林」的激烈冲突。</td><td><a href="https://cnindex.gitbook.io/xin-yue-xi-lie/nt4">进入第四卷</a></td><td><a href="assets/nt4.jpg">nt4.jpg</a></td></tr>
-    <tr><td><strong>第五卷</strong></td><td>「新约」系列迈入新的展开。</td><td><a href="https://cnindex.gitbook.io/xin-yue-xi-lie/nt5">进入第五卷</a></td><td><a href="assets/nt5.jpg">nt5.jpg</a></td></tr>
-    <tr><td><strong>第六卷</strong></td><td>紧迫局势再临，故事迈向第六卷。</td><td><a href="https://cnindex.gitbook.io/xin-yue-xi-lie/nt6">进入第六卷</a></td><td><a href="assets/nt6.jpg">nt6.jpg</a></td></tr>
-    <tr><td><strong>第七卷</strong></td><td>潜入常盘台中学的「学舍之园」进行调查。</td><td><a href="https://cnindex.gitbook.io/xin-yue-xi-lie/nt7">进入第七卷</a></td><td><a href="assets/nt7.jpg">nt7.jpg</a></td></tr>
-    <tr><td><strong>第八卷</strong></td><td>「魔神」欧提努斯终于开始行动。</td><td><a href="https://cnindex.gitbook.io/xin-yue-xi-lie/nt8">进入第八卷</a></td><td><a href="assets/nt8.jpg">nt8.jpg</a></td></tr>
-    <tr><td><strong>第九卷</strong></td><td>毁灭世界后，只剩欧提努斯与另一个人。</td><td><a href="https://cnindex.gitbook.io/xin-yue-xi-lie/nt9">进入第九卷</a></td><td><a href="assets/nt9.jpg">nt9.jpg</a></td></tr>
-    <tr><td><strong>第十卷</strong></td><td>最恶的敌人成为守护对象，最强伙伴化为障壁。</td><td><a href="https://cnindex.gitbook.io/xin-yue-xi-lie/nt10">进入第十卷</a></td><td><a href="assets/nt10.jpg">nt10.jpg</a></td></tr>
-    <tr><td><strong>第十一卷</strong></td><td>新女主角食蜂操祈登场。</td><td><a href="https://cnindex.gitbook.io/xin-yue-xi-lie/nt11">进入第十一卷</a></td><td><a href="assets/nt11.jpg">nt11.jpg</a></td></tr>
-    <tr><td><strong>第十二卷</strong></td><td>上条在「类钻」中与魔神圣日耳曼相遇。</td><td><a href="https://cnindex.gitbook.io/xin-yue-xi-lie/nt12">进入第十二卷</a></td><td><a href="assets/nt12.jpg">nt12.jpg</a></td></tr>
-    <tr><td><strong>第十三卷</strong></td><td>地球灭亡之际，上条与美琴的追逐战开幕。</td><td><a href="https://cnindex.gitbook.io/xin-yue-xi-lie/nt13">进入第十三卷</a></td><td><a href="assets/nt13.jpg">nt13.jpg</a></td></tr>
-    <tr><td><strong>第十四卷</strong></td><td>「幻想杀手」对决「理想放逐」。</td><td><a href="https://cnindex.gitbook.io/xin-yue-xi-lie/nt14">进入第十四卷</a></td><td><a href="assets/nt14.jpg">nt14.jpg</a></td></tr>
-    <tr><td><strong>第十五卷</strong></td><td>上里现身，上条的日常轰然崩溃。</td><td><a href="https://cnindex.gitbook.io/xin-yue-xi-lie/nt15">进入第十五卷</a></td><td><a href="assets/nt15.jpg">nt15.jpg</a></td></tr>
-    <tr><td><strong>第十六卷</strong></td><td>全校动员，从「元素」手中守护「圣域」。</td><td><a href="https://cnindex.gitbook.io/xin-yue-xi-lie/nt16">进入第十六卷</a></td><td><a href="assets/nt16.jpg">nt16.jpg</a></td></tr>
-    <tr><td><strong>第十七卷</strong></td><td>木原唯一释放上里势力，上条开始反击。</td><td><a href="https://cnindex.gitbook.io/xin-yue-xi-lie/nt17">进入第十七卷</a></td><td><a href="assets/nt17.jpg">nt17.jpg</a></td></tr>
-    <tr><td><strong>第十八卷</strong></td><td>上条挑战「没有窗户的大楼」。</td><td><a href="https://cnindex.gitbook.io/xin-yue-xi-lie/nt18">进入第十八卷</a></td><td><a href="assets/nt18.jpg">nt18.jpg</a></td></tr>
-    <tr><td><strong>第十九卷</strong></td><td>学园都市统括理事长化身美少女登场。</td><td><a href="https://cnindex.gitbook.io/xin-yue-xi-lie/nt19">进入第十九卷</a></td><td><a href="assets/nt19.jpg">nt19.jpg</a></td></tr>
-    <tr><td><strong>第二十卷</strong></td><td>学园都市与英国清教全面战争爆发。</td><td><a href="https://cnindex.gitbook.io/xin-yue-xi-lie/nt20">进入第二十卷</a></td><td><a href="assets/nt20.jpg">nt20.jpg</a></td></tr>
-    <tr><td><strong>第二十一卷</strong></td><td>科学与魔法跨越百年的决战。</td><td><a href="https://cnindex.gitbook.io/xin-yue-xi-lie/nt21">进入第二十一卷</a></td><td><a href="assets/nt21.jpg">nt21.jpg</a></td></tr>
-    <tr><td><strong>第二十二卷</strong></td><td>亚雷斯塔与科隆尊终于决出胜负。</td><td><a href="https://cnindex.gitbook.io/xin-yue-xi-lie/nt22">进入第二十二卷</a></td><td><a href="assets/nt22.jpg">nt22.jpg</a></td></tr>
-    <tr><td><strong>22R</strong></td><td>「新约篇」完结，女主角们齐聚庆祝会。</td><td><a href="https://cnindex.gitbook.io/xin-yue-xi-lie/nt22r">进入22R</a></td><td><a href="assets/nt22r.jpg">nt22r.jpg</a></td></tr>
+    <tr><td><strong>第一卷</strong></td><td>没有上条当麻的世界，以及从黑暗中毕业的人们。</td><td><a href="https://cnindex.gitbook.io/xin-yue/nt1">进入第一卷</a></td><td><a href="assets/nt1.jpg">nt1.jpg</a></td></tr>
+    <tr><td><strong>第二卷</strong></td><td>英雄归来后，故事却突然进入日常恋爱喜剧篇。</td><td><a href="https://cnindex.gitbook.io/xin-yue/nt2">进入第二卷</a></td><td><a href="assets/nt2.jpg">nt2.jpg</a></td></tr>
+    <tr><td><strong>第三卷</strong></td><td>科学与魔法交汇，这次的舞台是夏威夷。</td><td><a href="https://cnindex.gitbook.io/xin-yue/nt3">进入第三卷</a></td><td><a href="assets/nt3.jpg">nt3.jpg</a></td></tr>
+    <tr><td><strong>第四卷</strong></td><td>「木原」一族与「格雷姆林」的激烈冲突。</td><td><a href="https://cnindex.gitbook.io/xin-yue/nt4">进入第四卷</a></td><td><a href="assets/nt4.jpg">nt4.jpg</a></td></tr>
+    <tr><td><strong>第五卷</strong></td><td>「新约」系列迈入新的展开。</td><td><a href="https://cnindex.gitbook.io/xin-yue/nt5">进入第五卷</a></td><td><a href="assets/nt5.jpg">nt5.jpg</a></td></tr>
+    <tr><td><strong>第六卷</strong></td><td>紧迫局势再临，故事迈向第六卷。</td><td><a href="https://cnindex.gitbook.io/xin-yue/nt6">进入第六卷</a></td><td><a href="assets/nt6.jpg">nt6.jpg</a></td></tr>
+    <tr><td><strong>第七卷</strong></td><td>潜入常盘台中学的「学舍之园」进行调查。</td><td><a href="https://cnindex.gitbook.io/xin-yue/nt7">进入第七卷</a></td><td><a href="assets/nt7.jpg">nt7.jpg</a></td></tr>
+    <tr><td><strong>第八卷</strong></td><td>「魔神」欧提努斯终于开始行动。</td><td><a href="https://cnindex.gitbook.io/xin-yue/nt8">进入第八卷</a></td><td><a href="assets/nt8.jpg">nt8.jpg</a></td></tr>
+    <tr><td><strong>第九卷</strong></td><td>毁灭世界后，只剩欧提努斯与另一个人。</td><td><a href="https://cnindex.gitbook.io/xin-yue/nt9">进入第九卷</a></td><td><a href="assets/nt9.jpg">nt9.jpg</a></td></tr>
+    <tr><td><strong>第十卷</strong></td><td>最恶的敌人成为守护对象，最强伙伴化为障壁。</td><td><a href="https://cnindex.gitbook.io/xin-yue/nt10">进入第十卷</a></td><td><a href="assets/nt10.jpg">nt10.jpg</a></td></tr>
+    <tr><td><strong>第十一卷</strong></td><td>新女主角食蜂操祈登场。</td><td><a href="https://cnindex.gitbook.io/xin-yue/nt11">进入第十一卷</a></td><td><a href="assets/nt11.jpg">nt11.jpg</a></td></tr>
+    <tr><td><strong>第十二卷</strong></td><td>上条在「类钻」中与魔神圣日耳曼相遇。</td><td><a href="https://cnindex.gitbook.io/xin-yue/nt12">进入第十二卷</a></td><td><a href="assets/nt12.jpg">nt12.jpg</a></td></tr>
+    <tr><td><strong>第十三卷</strong></td><td>地球灭亡之际，上条与美琴的追逐战开幕。</td><td><a href="https://cnindex.gitbook.io/xin-yue/nt13">进入第十三卷</a></td><td><a href="assets/nt13.jpg">nt13.jpg</a></td></tr>
+    <tr><td><strong>第十四卷</strong></td><td>「幻想杀手」对决「理想放逐」。</td><td><a href="https://cnindex.gitbook.io/xin-yue/nt14">进入第十四卷</a></td><td><a href="assets/nt14.jpg">nt14.jpg</a></td></tr>
+    <tr><td><strong>第十五卷</strong></td><td>上里现身，上条的日常轰然崩溃。</td><td><a href="https://cnindex.gitbook.io/xin-yue/nt15">进入第十五卷</a></td><td><a href="assets/nt15.jpg">nt15.jpg</a></td></tr>
+    <tr><td><strong>第十六卷</strong></td><td>全校动员，从「元素」手中守护「圣域」。</td><td><a href="https://cnindex.gitbook.io/xin-yue/nt16">进入第十六卷</a></td><td><a href="assets/nt16.jpg">nt16.jpg</a></td></tr>
+    <tr><td><strong>第十七卷</strong></td><td>木原唯一释放上里势力，上条开始反击。</td><td><a href="https://cnindex.gitbook.io/xin-yue/nt17">进入第十七卷</a></td><td><a href="assets/nt17.jpg">nt17.jpg</a></td></tr>
+    <tr><td><strong>第十八卷</strong></td><td>上条挑战「没有窗户的大楼」。</td><td><a href="https://cnindex.gitbook.io/xin-yue/nt18">进入第十八卷</a></td><td><a href="assets/nt18.jpg">nt18.jpg</a></td></tr>
+    <tr><td><strong>第十九卷</strong></td><td>学园都市统括理事长化身美少女登场。</td><td><a href="https://cnindex.gitbook.io/xin-yue/nt19">进入第十九卷</a></td><td><a href="assets/nt19.jpg">nt19.jpg</a></td></tr>
+    <tr><td><strong>第二十卷</strong></td><td>学园都市与英国清教全面战争爆发。</td><td><a href="https://cnindex.gitbook.io/xin-yue/nt20">进入第二十卷</a></td><td><a href="assets/nt20.jpg">nt20.jpg</a></td></tr>
+    <tr><td><strong>第二十一卷</strong></td><td>科学与魔法跨越百年的决战。</td><td><a href="https://cnindex.gitbook.io/xin-yue/nt21">进入第二十一卷</a></td><td><a href="assets/nt21.jpg">nt21.jpg</a></td></tr>
+    <tr><td><strong>第二十二卷</strong></td><td>亚雷斯塔与科隆尊终于决出胜负。</td><td><a href="https://cnindex.gitbook.io/xin-yue/nt22">进入第二十二卷</a></td><td><a href="assets/nt22.jpg">nt22.jpg</a></td></tr>
+    <tr><td><strong>22R</strong></td><td>「新约篇」完结，女主角们齐聚庆祝会。</td><td><a href="https://cnindex.gitbook.io/xin-yue/nt22r">进入22R</a></td><td><a href="assets/nt22r.jpg">nt22r.jpg</a></td></tr>
   </tbody>
 </table>
