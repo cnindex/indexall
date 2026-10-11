@@ -1,5 +1,5 @@
 ---
-description: "《新约·魔法禁书目录》系列中文阅读站，收录第一卷至第十三卷。"
+description: "《新约·魔法禁书目录》系列中文阅读站，收录第一卷至第十四卷。"
 icon: books
 layout:
   width: wide
@@ -22,7 +22,7 @@ layout:
 没有上条当麻的世界，故事由此迈向新的阶段。
 
 {% hint style="info" icon="book-open" %}
-目前收录《新约·魔法禁书目录》第一卷至第十三卷。更多卷目将陆续加入。
+目前收录《新约·魔法禁书目录》第一卷至第十四卷。更多卷目将陆续加入。
 {% endhint %}
 
 ## 卷目
@@ -50,5 +50,6 @@ layout:
     <tr><td><strong>第十一卷</strong></td><td>新女主角食蜂操祈登场。</td><td><a href="https://cnindex.gitbook.io/xin-yue-xi-lie/nt11">进入第十一卷</a></td><td><a href="assets/nt11.jpg">nt11.jpg</a></td></tr>
     <tr><td><strong>第十二卷</strong></td><td>上条在「类钻」中与魔神圣日耳曼相遇。</td><td><a href="https://cnindex.gitbook.io/xin-yue-xi-lie/nt12">进入第十二卷</a></td><td><a href="assets/nt12.jpg">nt12.jpg</a></td></tr>
     <tr><td><strong>第十三卷</strong></td><td>地球灭亡之际，上条与美琴的追逐战开幕。</td><td><a href="https://cnindex.gitbook.io/xin-yue-xi-lie/nt13">进入第十三卷</a></td><td><a href="assets/nt13.jpg">nt13.jpg</a></td></tr>
+    <tr><td><strong>第十四卷</strong></td><td>「幻想杀手」对决「理想放逐」。</td><td><a href="https://cnindex.gitbook.io/xin-yue-xi-lie/nt14">进入第十四卷</a></td><td><a href="assets/nt14.jpg">nt14.jpg</a></td></tr>
   </tbody>
 </table>
