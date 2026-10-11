@@ -1,5 +1,5 @@
 ---
-description: "《旧约·魔法禁书目录》系列中文阅读站，收录第一卷至第十六卷及SS1。"
+description: "《旧约·魔法禁书目录》系列中文阅读站，收录第一卷至第十六卷及SS1、SS2。"
 icon: books
 layout:
   width: wide
@@ -22,7 +22,7 @@ layout:
 科学与魔法交汇之时，一切故事由此开始。
 
 {% hint style="info" icon="book-open" %}
-目前收录《旧约·魔法禁书目录》第一卷至第十六卷及SS1。更多卷目将陆续加入。
+目前收录《旧约·魔法禁书目录》第一卷至第十六卷及SS1、SS2。更多卷目将陆续加入。
 {% endhint %}
 
 ## 卷目
@@ -54,5 +54,6 @@ layout:
     <tr><td><strong>第十四卷</strong></td><td>「C文书」引发大规模魔法，上条奔赴法国。</td><td><a href="https://cnindex.gitbook.io/jiu-yue/ot14">进入第十四卷</a></td><td><a href="assets/ot14.jpg">ot14.jpg</a></td></tr>
     <tr><td><strong>第十五卷</strong></td><td>聚焦一方通行与学园都市「暗部」。</td><td><a href="https://cnindex.gitbook.io/jiu-yue/ot15">进入第十五卷</a></td><td><a href="assets/ot15.jpg">ot15.jpg</a></td></tr>
     <tr><td><strong>第十六卷</strong></td><td>上条对决「神之右席」后方之水。</td><td><a href="https://cnindex.gitbook.io/jiu-yue/ot16">进入第十六卷</a></td><td><a href="assets/ot16.jpg">ot16.jpg</a></td></tr>
+    <tr><td><strong>SS2</strong></td><td>老角色与新角色活跃的补完短篇集。</td><td><a href="https://cnindex.gitbook.io/jiu-yue/otss2">进入SS2</a></td><td><a href="assets/otss2.jpg">otss2.jpg</a></td></tr>
   </tbody>
 </table>

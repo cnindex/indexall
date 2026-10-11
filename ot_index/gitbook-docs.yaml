@@ -129,3 +129,10 @@ site:
       content:
         directory: ./ot16
         language: zh
+    - type: space
+      key: space-indexotss2
+      title: 旧约·魔法禁书目录SS2
+      path: otss2
+      content:
+        directory: ./otss2
+        language: zh
