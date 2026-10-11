@@ -52,3 +52,10 @@ site:
       content:
         directory: ./nt6
         language: zh
+    - type: space
+      key: space-indexnt7
+      title: 新约·魔法禁书目录7
+      path: nt7
+      content:
+        directory: ./nt7
+        language: zh
