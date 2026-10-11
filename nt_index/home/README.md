@@ -1,5 +1,5 @@
 ---
-description: "《新约·魔法禁书目录》系列中文阅读站，收录第一卷至第十九卷。"
+description: "《新约·魔法禁书目录》系列中文阅读站，收录第一卷至第二十卷。"
 icon: books
 layout:
   width: wide
@@ -22,7 +22,7 @@ layout:
 没有上条当麻的世界，故事由此迈向新的阶段。
 
 {% hint style="info" icon="book-open" %}
-目前收录《新约·魔法禁书目录》第一卷至第十九卷。更多卷目将陆续加入。
+目前收录《新约·魔法禁书目录》第一卷至第二十卷。更多卷目将陆续加入。
 {% endhint %}
 
 ## 卷目
@@ -56,5 +56,6 @@ layout:
     <tr><td><strong>第十七卷</strong></td><td>木原唯一释放上里势力，上条开始反击。</td><td><a href="https://cnindex.gitbook.io/xin-yue-xi-lie/nt17">进入第十七卷</a></td><td><a href="assets/nt17.jpg">nt17.jpg</a></td></tr>
     <tr><td><strong>第十八卷</strong></td><td>上条挑战「没有窗户的大楼」。</td><td><a href="https://cnindex.gitbook.io/xin-yue-xi-lie/nt18">进入第十八卷</a></td><td><a href="assets/nt18.jpg">nt18.jpg</a></td></tr>
     <tr><td><strong>第十九卷</strong></td><td>学园都市统括理事长化身美少女登场。</td><td><a href="https://cnindex.gitbook.io/xin-yue-xi-lie/nt19">进入第十九卷</a></td><td><a href="assets/nt19.jpg">nt19.jpg</a></td></tr>
+    <tr><td><strong>第二十卷</strong></td><td>学园都市与英国清教全面战争爆发。</td><td><a href="https://cnindex.gitbook.io/xin-yue-xi-lie/nt20">进入第二十卷</a></td><td><a href="assets/nt20.jpg">nt20.jpg</a></td></tr>
   </tbody>
 </table>
