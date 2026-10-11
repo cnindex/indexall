@@ -2,11 +2,25 @@
 
 某科学的心理掌握
 
-由某树状图的汉化组汉化并发布
-
 ![](images/cover1.jpg)
 
-*欢迎加入汉化组：*
+{% hint style="info" icon="people-group" %}
+**汉化组信息**
+
+本作由某树状图的汉化组汉化并发布，欢迎有兴趣的读者加入汉化组。
+{% endhint %}
+
+{% hint style="success" icon="book-open" %}
+**更新说明**
+
+目前已收录至第三十七话。章节较长时会拆分为前、中、后篇，以改善图片加载速度。
+{% endhint %}
+
+{% hint style="warning" icon="triangle-exclamation" %}
+**版权声明**
+
+本站内容仅供试看、学习与交流使用，禁止用于商业用途。请支持官方正版。
+{% endhint %}
 
 ![](images/0.jpg)
 
