@@ -115,3 +115,10 @@ site:
       content:
         directory: ./ot14
         language: zh
+    - type: space
+      key: space-indexot15
+      title: 旧约·魔法禁书目录15
+      path: ot15
+      content:
+        directory: ./ot15
+        language: zh

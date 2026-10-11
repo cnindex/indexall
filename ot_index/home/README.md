@@ -1,5 +1,5 @@
 ---
-description: "《旧约·魔法禁书目录》系列中文阅读站，收录第一卷至第十四卷及SS1。"
+description: "《旧约·魔法禁书目录》系列中文阅读站，收录第一卷至第十五卷及SS1。"
 icon: books
 layout:
   width: wide
@@ -22,7 +22,7 @@ layout:
 科学与魔法交汇之时，一切故事由此开始。
 
 {% hint style="info" icon="book-open" %}
-目前收录《旧约·魔法禁书目录》第一卷至第十四卷及SS1。更多卷目将陆续加入。
+目前收录《旧约·魔法禁书目录》第一卷至第十五卷及SS1。更多卷目将陆续加入。
 {% endhint %}
 
 ## 卷目
@@ -52,5 +52,6 @@ layout:
     <tr><td><strong>第十三卷</strong></td><td>上条与一方通行分别迎战强敌。</td><td><a href="https://cnindex.gitbook.io/jiu-yue/ot13">进入第十三卷</a></td><td><a href="assets/ot13.jpg">ot13.jpg</a></td></tr>
     <tr><td><strong>SS1</strong></td><td>科学与魔法交汇的短篇故事集。</td><td><a href="https://cnindex.gitbook.io/jiu-yue/otss1">进入SS1</a></td><td><a href="assets/otss1.jpg">otss1.jpg</a></td></tr>
     <tr><td><strong>第十四卷</strong></td><td>「C文书」引发大规模魔法，上条奔赴法国。</td><td><a href="https://cnindex.gitbook.io/jiu-yue/ot14">进入第十四卷</a></td><td><a href="assets/ot14.jpg">ot14.jpg</a></td></tr>
+    <tr><td><strong>第十五卷</strong></td><td>聚焦一方通行与学园都市「暗部」。</td><td><a href="https://cnindex.gitbook.io/jiu-yue/ot15">进入第十五卷</a></td><td><a href="assets/ot15.jpg">ot15.jpg</a></td></tr>
   </tbody>
 </table>
