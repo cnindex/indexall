@@ -122,3 +122,10 @@ site:
       content:
         directory: ./ot15
         language: zh
+    - type: space
+      key: space-indexot16
+      title: 旧约·魔法禁书目录16
+      path: ot16
+      content:
+        directory: ./ot16
+        language: zh
