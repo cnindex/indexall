@@ -1,5 +1,5 @@
 ---
-description: "《旧约·魔法禁书目录》系列中文阅读站，收录第一卷至第十三卷。"
+description: "《旧约·魔法禁书目录》系列中文阅读站，收录第一卷至第十三卷及SS1。"
 icon: books
 layout:
   width: wide
@@ -22,7 +22,7 @@ layout:
 科学与魔法交汇之时，一切故事由此开始。
 
 {% hint style="info" icon="book-open" %}
-目前收录《旧约·魔法禁书目录》第一卷至第十三卷。更多卷目将陆续加入。
+目前收录《旧约·魔法禁书目录》第一卷至第十三卷及SS1。更多卷目将陆续加入。
 {% endhint %}
 
 ## 卷目
@@ -50,5 +50,6 @@ layout:
     <tr><td><strong>第十一卷</strong></td><td>上条抽中海外旅行双人票。</td><td><a href="https://cnindex.gitbook.io/jiu-yue/ot11">进入第十一卷</a></td><td><a href="assets/ot11.jpg">ot11.jpg</a></td></tr>
     <tr><td><strong>第十二卷</strong></td><td>围绕惩罚游戏展开的学园喜剧。</td><td><a href="https://cnindex.gitbook.io/jiu-yue/ot12">进入第十二卷</a></td><td><a href="assets/ot12.jpg">ot12.jpg</a></td></tr>
     <tr><td><strong>第十三卷</strong></td><td>上条与一方通行分别迎战强敌。</td><td><a href="https://cnindex.gitbook.io/jiu-yue/ot13">进入第十三卷</a></td><td><a href="assets/ot13.jpg">ot13.jpg</a></td></tr>
+    <tr><td><strong>SS1</strong></td><td>科学与魔法交汇的短篇故事集。</td><td><a href="https://cnindex.gitbook.io/jiu-yue/otss1">进入SS1</a></td><td><a href="assets/otss1.jpg">otss1.jpg</a></td></tr>
   </tbody>
 </table>

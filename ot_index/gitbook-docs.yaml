@@ -101,3 +101,10 @@ site:
       content:
         directory: ./ot13
         language: zh
+    - type: space
+      key: space-indexotss1
+      title: 旧约·魔法禁书目录SS1
+      path: otss1
+      content:
+        directory: ./otss1
+        language: zh
