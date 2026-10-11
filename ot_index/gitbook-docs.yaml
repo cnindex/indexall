@@ -136,3 +136,10 @@ site:
       content:
         directory: ./otss2
         language: zh
+    - type: space
+      key: space-indexot17
+      title: 旧约·魔法禁书目录17
+      path: ot17
+      content:
+        directory: ./ot17
+        language: zh
