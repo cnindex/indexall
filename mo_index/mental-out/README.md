@@ -30,7 +30,7 @@ layout:
 {% hint style="success" icon="book-open" %}
 **更新说明**
 
-目前已收录至第三十七话。章节较长时会拆分为前、中、后篇，以改善图片加载速度。
+目前已收录至第三十七话。章节较长时会拆分为上、中、下篇，以改善图片加载速度。
 {% endhint %}
 
 {% hint style="warning" icon="triangle-exclamation" %}
@@ -74,24 +74,24 @@ layout:
     <tr><td><strong>第二十话</strong></td><td>上、下篇</td><td><a href="post/20-1.md">post/20-1.md</a></td></tr>
     <tr><td><strong>第二十一话</strong></td><td>上、下篇</td><td><a href="post/21-1.md">post/21-1.md</a></td></tr>
     <tr><td><strong>第二十二话</strong></td><td>上、下篇</td><td><a href="post/22-1.md">post/22-1.md</a></td></tr>
-    <tr><td><strong>第二十三话</strong></td><td>前、后篇</td><td><a href="post/23-1.md">post/23-1.md</a></td></tr>
-    <tr><td><strong>第二十四话</strong></td><td>前、后篇</td><td><a href="post/24-1.md">post/24-1.md</a></td></tr>
+    <tr><td><strong>第二十三话</strong></td><td>上、下篇</td><td><a href="post/23-1.md">post/23-1.md</a></td></tr>
+    <tr><td><strong>第二十四话</strong></td><td>上、下篇</td><td><a href="post/24-1.md">post/24-1.md</a></td></tr>
     <tr><td><strong>第二十五话</strong></td><td>完整篇</td><td><a href="post/25.md">post/25.md</a></td></tr>
-    <tr><td><strong>第二十六话</strong></td><td>前、中、后篇</td><td><a href="post/26-1.md">post/26-1.md</a></td></tr>
-    <tr><td><strong>第二十七话</strong></td><td>前、后篇</td><td><a href="post/27-1.md">post/27-1.md</a></td></tr>
-    <tr><td><strong>第二十八话</strong></td><td>前、后篇</td><td><a href="post/28-1.md">post/28-1.md</a></td></tr>
-    <tr><td><strong>第二十九话</strong></td><td>前、后篇</td><td><a href="post/29-1.md">post/29-1.md</a></td></tr>
-    <tr><td><strong>第二十九点五话</strong></td><td>前、后篇</td><td><a href="post/29.5-1.md">post/29.5-1.md</a></td></tr>
-    <tr><td><strong>第三十话</strong></td><td>前、后篇</td><td><a href="post/30-1.md">post/30-1.md</a></td></tr>
-    <tr><td><strong>第三十一话</strong></td><td>前、后篇</td><td><a href="post/31-1.md">post/31-1.md</a></td></tr>
-    <tr><td><strong>第三十二话</strong></td><td>前、中、后篇</td><td><a href="post/32-1.md">post/32-1.md</a></td></tr>
-    <tr><td><strong>第三十二点五话</strong></td><td>前、后篇</td><td><a href="post/32.5-1.md">post/32.5-1.md</a></td></tr>
-    <tr><td><strong>第三十三话</strong></td><td>前、后篇</td><td><a href="post/33-1.md">post/33-1.md</a></td></tr>
-    <tr><td><strong>第三十四话</strong></td><td>前、中、后篇</td><td><a href="post/34-1.md">post/34-1.md</a></td></tr>
-    <tr><td><strong>第三十四点五话</strong></td><td>前、后篇</td><td><a href="post/34.5-1.md">post/34.5-1.md</a></td></tr>
-    <tr><td><strong>第三十五话</strong></td><td>前、后篇</td><td><a href="post/35-1.md">post/35-1.md</a></td></tr>
-    <tr><td><strong>第三十六话</strong></td><td>前、后篇</td><td><a href="post/36-1.md">post/36-1.md</a></td></tr>
-    <tr><td><strong>第三十六点五话</strong></td><td>前、后篇</td><td><a href="post/36.5-1.md">post/36.5-1.md</a></td></tr>
-    <tr><td><strong>第三十七话</strong></td><td>前、后篇</td><td><a href="post/37-1.md">post/37-1.md</a></td></tr>
+    <tr><td><strong>第二十六话</strong></td><td>上、中、下篇</td><td><a href="post/26-1.md">post/26-1.md</a></td></tr>
+    <tr><td><strong>第二十七话</strong></td><td>上、下篇</td><td><a href="post/27-1.md">post/27-1.md</a></td></tr>
+    <tr><td><strong>第二十八话</strong></td><td>上、下篇</td><td><a href="post/28-1.md">post/28-1.md</a></td></tr>
+    <tr><td><strong>第二十九话</strong></td><td>上、下篇</td><td><a href="post/29-1.md">post/29-1.md</a></td></tr>
+    <tr><td><strong>第二十九点五话</strong></td><td>上、下篇</td><td><a href="post/29.5-1.md">post/29.5-1.md</a></td></tr>
+    <tr><td><strong>第三十话</strong></td><td>上、下篇</td><td><a href="post/30-1.md">post/30-1.md</a></td></tr>
+    <tr><td><strong>第三十一话</strong></td><td>上、下篇</td><td><a href="post/31-1.md">post/31-1.md</a></td></tr>
+    <tr><td><strong>第三十二话</strong></td><td>上、中、下篇</td><td><a href="post/32-1.md">post/32-1.md</a></td></tr>
+    <tr><td><strong>第三十二点五话</strong></td><td>上、下篇</td><td><a href="post/32.5-1.md">post/32.5-1.md</a></td></tr>
+    <tr><td><strong>第三十三话</strong></td><td>上、下篇</td><td><a href="post/33-1.md">post/33-1.md</a></td></tr>
+    <tr><td><strong>第三十四话</strong></td><td>上、中、下篇</td><td><a href="post/34-1.md">post/34-1.md</a></td></tr>
+    <tr><td><strong>第三十四点五话</strong></td><td>上、下篇</td><td><a href="post/34.5-1.md">post/34.5-1.md</a></td></tr>
+    <tr><td><strong>第三十五话</strong></td><td>上、下篇</td><td><a href="post/35-1.md">post/35-1.md</a></td></tr>
+    <tr><td><strong>第三十六话</strong></td><td>上、下篇</td><td><a href="post/36-1.md">post/36-1.md</a></td></tr>
+    <tr><td><strong>第三十六点五话</strong></td><td>上、下篇</td><td><a href="post/36.5-1.md">post/36.5-1.md</a></td></tr>
+    <tr><td><strong>第三十七话</strong></td><td>上、下篇</td><td><a href="post/37-1.md">post/37-1.md</a></td></tr>
   </tbody>
 </table>
