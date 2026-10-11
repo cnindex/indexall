@@ -73,3 +73,10 @@ site:
       content:
         directory: ./nt9
         language: zh
+    - type: space
+      key: space-indexnt10
+      title: 新约·魔法禁书目录10
+      path: nt10
+      content:
+        directory: ./nt10
+        language: zh
