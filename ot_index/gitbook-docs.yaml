@@ -52,3 +52,10 @@ site:
       content:
         directory: ./ot6
         language: zh
+    - type: space
+      key: space-indexot7
+      title: 旧约·魔法禁书目录7
+      path: ot7
+      content:
+        directory: ./ot7
+        language: zh
