@@ -17,3 +17,10 @@ site:
       content:
         directory: ./ot1
         language: zh
+    - type: space
+      key: space-indexot2
+      title: 旧约·魔法禁书目录2
+      path: ot2
+      content:
+        directory: ./ot2
+        language: zh
