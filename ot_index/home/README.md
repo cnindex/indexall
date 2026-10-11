@@ -1,5 +1,5 @@
 ---
-description: "《旧约·魔法禁书目录》系列中文阅读站，收录第一卷至第十八卷及SS1、SS2。"
+description: "《旧约·魔法禁书目录》系列中文阅读站，收录第一卷至第十九卷及SS1、SS2。"
 icon: books
 layout:
   width: wide
@@ -22,7 +22,7 @@ layout:
 科学与魔法交汇之时，一切故事由此开始。
 
 {% hint style="info" icon="book-open" %}
-目前收录《旧约·魔法禁书目录》第一卷至第十八卷及SS1、SS2。更多卷目将陆续加入。
+目前收录《旧约·魔法禁书目录》第一卷至第十九卷及SS1、SS2。更多卷目将陆续加入。
 {% endhint %}
 
 ## 卷目
@@ -57,5 +57,6 @@ layout:
     <tr><td><strong>SS2</strong></td><td>老角色与新角色活跃的补完短篇集。</td><td><a href="https://cnindex.gitbook.io/jiu-yue/otss2">进入SS2</a></td><td><a href="assets/otss2.jpg">otss2.jpg</a></td></tr>
     <tr><td><strong>第十七卷</strong></td><td>上条在潜藏魔法结社的英国奔走。</td><td><a href="https://cnindex.gitbook.io/jiu-yue/ot17">进入第十七卷</a></td><td><a href="assets/ot17.jpg">ot17.jpg</a></td></tr>
     <tr><td><strong>第十八卷</strong></td><td>英国清教与骑士派的大战拉开帷幕。</td><td><a href="https://cnindex.gitbook.io/jiu-yue/ot18">进入第十八卷</a></td><td><a href="assets/ot18.jpg">ot18.jpg</a></td></tr>
+    <tr><td><strong>第十九卷</strong></td><td>学园都市「暗部」再起波澜。</td><td><a href="https://cnindex.gitbook.io/jiu-yue/ot19">进入第十九卷</a></td><td><a href="assets/ot19.jpg">ot19.jpg</a></td></tr>
   </tbody>
 </table>
