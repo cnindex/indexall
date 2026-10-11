@@ -129,3 +129,10 @@ site:
       content:
         directory: ./nt17
         language: zh
+    - type: space
+      key: space-indexnt18
+      title: 新约·魔法禁书目录18
+      path: nt18
+      content:
+        directory: ./nt18
+        language: zh

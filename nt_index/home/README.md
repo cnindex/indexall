@@ -1,5 +1,5 @@
 ---
-description: "《新约·魔法禁书目录》系列中文阅读站，收录第一卷至第十七卷。"
+description: "《新约·魔法禁书目录》系列中文阅读站，收录第一卷至第十八卷。"
 icon: books
 layout:
   width: wide
@@ -22,7 +22,7 @@ layout:
 没有上条当麻的世界，故事由此迈向新的阶段。
 
 {% hint style="info" icon="book-open" %}
-目前收录《新约·魔法禁书目录》第一卷至第十七卷。更多卷目将陆续加入。
+目前收录《新约·魔法禁书目录》第一卷至第十八卷。更多卷目将陆续加入。
 {% endhint %}
 
 ## 卷目
@@ -54,5 +54,6 @@ layout:
     <tr><td><strong>第十五卷</strong></td><td>上里现身，上条的日常轰然崩溃。</td><td><a href="https://cnindex.gitbook.io/xin-yue-xi-lie/nt15">进入第十五卷</a></td><td><a href="assets/nt15.jpg">nt15.jpg</a></td></tr>
     <tr><td><strong>第十六卷</strong></td><td>全校动员，从「元素」手中守护「圣域」。</td><td><a href="https://cnindex.gitbook.io/xin-yue-xi-lie/nt16">进入第十六卷</a></td><td><a href="assets/nt16.jpg">nt16.jpg</a></td></tr>
     <tr><td><strong>第十七卷</strong></td><td>木原唯一释放上里势力，上条开始反击。</td><td><a href="https://cnindex.gitbook.io/xin-yue-xi-lie/nt17">进入第十七卷</a></td><td><a href="assets/nt17.jpg">nt17.jpg</a></td></tr>
+    <tr><td><strong>第十八卷</strong></td><td>上条挑战「没有窗户的大楼」。</td><td><a href="https://cnindex.gitbook.io/xin-yue-xi-lie/nt18">进入第十八卷</a></td><td><a href="assets/nt18.jpg">nt18.jpg</a></td></tr>
   </tbody>
 </table>
