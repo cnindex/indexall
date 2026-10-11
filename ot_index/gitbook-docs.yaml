@@ -143,3 +143,10 @@ site:
       content:
         directory: ./ot17
         language: zh
+    - type: space
+      key: space-indexot18
+      title: 旧约·魔法禁书目录18
+      path: ot18
+      content:
+        directory: ./ot18
+        language: zh
