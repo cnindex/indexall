@@ -136,3 +136,10 @@ site:
       content:
         directory: ./nt18
         language: zh
+    - type: space
+      key: space-indexnt19
+      title: 新约·魔法禁书目录19
+      path: nt19
+      content:
+        directory: ./nt19
+        language: zh
