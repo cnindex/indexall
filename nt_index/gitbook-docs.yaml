@@ -164,3 +164,10 @@ site:
       content:
         directory: ./nt22
         language: zh
+    - type: space
+      key: space-indexnt22r
+      title: 新约·魔法禁书目录22R
+      path: nt22r
+      content:
+        directory: ./nt22r
+        language: zh
