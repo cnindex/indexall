@@ -178,3 +178,10 @@ site:
       content:
         directory: ./ot22
         language: zh
+    - type: space
+      key: space-indexotsp
+      title: 旧约·魔法禁书目录SP
+      path: otsp
+      content:
+        directory: ./otsp
+        language: zh
