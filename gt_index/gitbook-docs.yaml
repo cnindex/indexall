@@ -1,82 +1,19 @@
 $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
-  title: 创约系列
+  title: 某科学的心理掌握
   structure:
     - type: space
-      key: space-indexgt1
-      title: 创约·魔法禁书目录1
-      path: gt1
+      key: space-indexmentalout
+      title: 某科学的心理掌握
+      path: mental-out
       default: true
       content:
-        directory: ./gt1
+        directory: ./mental-out
         language: zh
     - type: space
-      key: space-indexgt2
-      title: 创约·魔法禁书目录2
-      path: gt2
+      key: space-1
+      title: 创约·魔法禁书目录1
+      path: chuang-yue-mo-fa-jin-shu-mu-lu-1
       content:
-        directory: ./gt2
-        language: zh
-    - type: space
-      key: space-indexgt3
-      title: 创约·魔法禁书目录3
-      path: gt3
-      content:
-        directory: ./gt3
-        language: zh
-    - type: space
-      key: space-indexgt4
-      title: 创约·魔法禁书目录4
-      path: gt4
-      content:
-        directory: ./gt4
-        language: zh
-    - type: space
-      key: space-indexgt5
-      title: 创约·魔法禁书目录5
-      path: gt5
-      content:
-        directory: ./gt5
-        language: zh
-    - type: space
-      key: space-indexgt6
-      title: 创约·魔法禁书目录6
-      path: gt6
-      content:
-        directory: ./gt6
-        language: zh
-    - type: space
-      key: space-indexgt7
-      title: 创约·魔法禁书目录7
-      path: gt7
-      content:
-        directory: ./gt7
-        language: zh
-    - type: space
-      key: space-indexgt8
-      title: 创约·魔法禁书目录8
-      path: gt8
-      content:
-        directory: ./gt8
-        language: zh
-    - type: space
-      key: space-indexgt9
-      title: 创约·魔法禁书目录9
-      path: gt9
-      content:
-        directory: ./gt9
-        language: zh
-    - type: space
-      key: space-indexgt10
-      title: 创约·魔法禁书目录10
-      path: gt10
-      content:
-        directory: ./gt10
-        language: zh
-    - type: space
-      key: space-indexgt11
-      title: 创约·魔法禁书目录11
-      path: gt11
-      content:
-        directory: ./gt11
+        directory: ./chuang-yue-mo-fa-jin-shu-mu-lu-1
         language: zh
