@@ -150,3 +150,10 @@ site:
       content:
         directory: ./nt20
         language: zh
+    - type: space
+      key: space-indexnt21
+      title: 新约·魔法禁书目录21
+      path: nt21
+      content:
+        directory: ./nt21
+        language: zh
