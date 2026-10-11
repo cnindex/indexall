@@ -108,3 +108,10 @@ site:
       content:
         directory: ./otss1
         language: zh
+    - type: space
+      key: space-indexot14
+      title: 旧约·魔法禁书目录14
+      path: ot14
+      content:
+        directory: ./ot14
+        language: zh
