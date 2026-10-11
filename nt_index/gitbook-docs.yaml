@@ -66,3 +66,10 @@ site:
       content:
         directory: ./nt8
         language: zh
+    - type: space
+      key: space-indexnt9
+      title: 新约·魔法禁书目录9
+      path: nt9
+      content:
+        directory: ./nt9
+        language: zh

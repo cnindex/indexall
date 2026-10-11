@@ -1,5 +1,5 @@
 ---
-description: "《新约·魔法禁书目录》系列中文阅读站，收录第一卷至第八卷。"
+description: "《新约·魔法禁书目录》系列中文阅读站，收录第一卷至第九卷。"
 icon: books
 layout:
   width: wide
@@ -22,7 +22,7 @@ layout:
 没有上条当麻的世界，故事由此迈向新的阶段。
 
 {% hint style="info" icon="book-open" %}
-目前收录《新约·魔法禁书目录》第一卷至第八卷。更多卷目将陆续加入。
+目前收录《新约·魔法禁书目录》第一卷至第九卷。更多卷目将陆续加入。
 {% endhint %}
 
 ## 卷目
@@ -45,5 +45,6 @@ layout:
     <tr><td><strong>第六卷</strong></td><td>紧迫局势再临，故事迈向第六卷。</td><td><a href="https://cnindex.gitbook.io/xin-yue-xi-lie/nt6">进入第六卷</a></td><td><a href="assets/nt6.jpg">nt6.jpg</a></td></tr>
     <tr><td><strong>第七卷</strong></td><td>潜入常盘台中学的「学舍之园」进行调查。</td><td><a href="https://cnindex.gitbook.io/xin-yue-xi-lie/nt7">进入第七卷</a></td><td><a href="assets/nt7.jpg">nt7.jpg</a></td></tr>
     <tr><td><strong>第八卷</strong></td><td>「魔神」欧提努斯终于开始行动。</td><td><a href="https://cnindex.gitbook.io/xin-yue-xi-lie/nt8">进入第八卷</a></td><td><a href="assets/nt8.jpg">nt8.jpg</a></td></tr>
+    <tr><td><strong>第九卷</strong></td><td>毁灭世界后，只剩欧提努斯与另一个人。</td><td><a href="https://cnindex.gitbook.io/xin-yue-xi-lie/nt9">进入第九卷</a></td><td><a href="assets/nt9.jpg">nt9.jpg</a></td></tr>
   </tbody>
 </table>
