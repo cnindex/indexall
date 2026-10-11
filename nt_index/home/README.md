@@ -1,5 +1,5 @@
 ---
-description: "《新约·魔法禁书目录》系列中文阅读站，收录第一卷至第三卷。"
+description: "《新约·魔法禁书目录》系列中文阅读站，收录第一卷至第四卷。"
 icon: books
 layout:
   width: wide
@@ -22,7 +22,7 @@ layout:
 没有上条当麻的世界，故事由此迈向新的阶段。
 
 {% hint style="info" icon="book-open" %}
-目前收录《新约·魔法禁书目录》第一卷至第三卷。更多卷目将陆续加入。
+目前收录《新约·魔法禁书目录》第一卷至第四卷。更多卷目将陆续加入。
 {% endhint %}
 
 ## 卷目
@@ -40,5 +40,6 @@ layout:
     <tr><td><strong>第一卷</strong></td><td>没有上条当麻的世界，以及从黑暗中毕业的人们。</td><td><a href="https://cnindex.gitbook.io/xin-yue-xi-lie/nt1">进入第一卷</a></td><td><a href="assets/nt1.jpg">nt1.jpg</a></td></tr>
     <tr><td><strong>第二卷</strong></td><td>英雄归来后，故事却突然进入日常恋爱喜剧篇。</td><td><a href="https://cnindex.gitbook.io/xin-yue-xi-lie/nt2">进入第二卷</a></td><td><a href="assets/nt2.jpg">nt2.jpg</a></td></tr>
     <tr><td><strong>第三卷</strong></td><td>科学与魔法交汇，这次的舞台是夏威夷。</td><td><a href="https://cnindex.gitbook.io/xin-yue-xi-lie/nt3">进入第三卷</a></td><td><a href="assets/nt3.jpg">nt3.jpg</a></td></tr>
+    <tr><td><strong>第四卷</strong></td><td>「木原」一族与「格雷姆林」的激烈冲突。</td><td><a href="https://cnindex.gitbook.io/xin-yue-xi-lie/nt4">进入第四卷</a></td><td><a href="assets/nt4.jpg">nt4.jpg</a></td></tr>
   </tbody>
 </table>
