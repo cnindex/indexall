@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: 某科学的心理掌握
+  structure:
+    - type: space
+      key: space-indexmentalout
+      title: 某科学的心理掌握
+      path: mental-out
+      default: true
+      content:
+        directory: ./mental-out
+        language: zh
