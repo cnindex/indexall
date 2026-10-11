@@ -3,88 +3,80 @@ site:
   title: 创约系列
   structure:
     - type: space
-      key: space-indexmentalout
-      title: 某科学的心理掌握
-      path: mental-out
-      hidden: true
-      content:
-        directory: ./mental-out
-        language: zh
-    - type: space
-      key: space-1
+      key: space-indexgt1
       title: 创约·魔法禁书目录1
       path: gt1
       default: true
       content:
-        directory: ./chuang-yue-mo-fa-jin-shu-mu-lu-1
+        directory: ./gt1
         language: zh
     - type: space
-      key: space-2
+      key: space-indexgt2
       title: 创约·魔法禁书目录2
       path: gt2
       content:
-        directory: ./chuang-yue-mo-fa-jin-shu-mu-lu-2
+        directory: ./gt2
         language: zh
     - type: space
-      key: space-3
+      key: space-indexgt3
       title: 创约·魔法禁书目录3
       path: gt3
       content:
-        directory: ./chuang-yue-mo-fa-jin-shu-mu-lu-3
+        directory: ./gt3
         language: zh
     - type: space
-      key: space-4
-      title: 创约·魔法禁书目录5
-      path: gt5
-      content:
-        directory: ./chuang-yue-mo-fa-jin-shu-mu-lu-5
-        language: zh
-    - type: space
-      key: space-5
-      title: 创约·魔法禁书目录6
-      path: gt6
-      content:
-        directory: ./chuang-yue-mo-fa-jin-shu-mu-lu-6
-        language: zh
-    - type: space
-      key: space-6
-      title: 创约·魔法禁书目录9
-      path: gt9
-      content:
-        directory: ./chuang-yue-mo-fa-jin-shu-mu-lu-9
-        language: zh
-    - type: space
-      key: space-7
-      title: 创约·魔法禁书目录7
-      path: gt7
-      content:
-        directory: ./chuang-yue-mo-fa-jin-shu-mu-lu-7
-        language: zh
-    - type: space
-      key: space-8
-      title: 创约·魔法禁书目录8
-      path: gt8
-      content:
-        directory: ./chuang-yue-mo-fa-jin-shu-mu-lu-8
-        language: zh
-    - type: space
-      key: space-9
-      title: 创约·魔法禁书目录11
-      path: gt11
-      content:
-        directory: ./chuang-yue-mo-fa-jin-shu-mu-lu-11
-        language: zh
-    - type: space
-      key: space-10
-      title: 创约·魔法禁书目录10
-      path: gt10
-      content:
-        directory: ./chuang-yue-mo-fa-jin-shu-mu-lu-10
-        language: zh
-    - type: space
-      key: space-11
+      key: space-indexgt4
       title: 创约·魔法禁书目录4
       path: gt4
       content:
-        directory: ./chuang-yue-mo-fa-jin-shu-mu-lu-4
+        directory: ./gt4
+        language: zh
+    - type: space
+      key: space-indexgt5
+      title: 创约·魔法禁书目录5
+      path: gt5
+      content:
+        directory: ./gt5
+        language: zh
+    - type: space
+      key: space-indexgt6
+      title: 创约·魔法禁书目录6
+      path: gt6
+      content:
+        directory: ./gt6
+        language: zh
+    - type: space
+      key: space-indexgt7
+      title: 创约·魔法禁书目录7
+      path: gt7
+      content:
+        directory: ./gt7
+        language: zh
+    - type: space
+      key: space-indexgt8
+      title: 创约·魔法禁书目录8
+      path: gt8
+      content:
+        directory: ./gt8
+        language: zh
+    - type: space
+      key: space-indexgt9
+      title: 创约·魔法禁书目录9
+      path: gt9
+      content:
+        directory: ./gt9
+        language: zh
+    - type: space
+      key: space-indexgt10
+      title: 创约·魔法禁书目录10
+      path: gt10
+      content:
+        directory: ./gt10
+        language: zh
+    - type: space
+      key: space-indexgt11
+      title: 创约·魔法禁书目录11
+      path: gt11
+      content:
+        directory: ./gt11
         language: zh
