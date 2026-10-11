@@ -45,3 +45,10 @@ site:
       content:
         directory: ./ot5
         language: zh
+    - type: space
+      key: space-indexot6
+      title: 旧约·魔法禁书目录6
+      path: ot6
+      content:
+        directory: ./ot6
+        language: zh
