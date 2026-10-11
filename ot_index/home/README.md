@@ -1,5 +1,5 @@
 ---
-description: "《旧约·魔法禁书目录》系列中文阅读站，收录第一卷至第二十一卷及SS1、SS2。"
+description: "《旧约·魔法禁书目录》系列中文阅读站，收录第一卷至第二十二卷及SS1、SS2。"
 icon: books
 layout:
   width: wide
@@ -22,7 +22,7 @@ layout:
 科学与魔法交汇之时，一切故事由此开始。
 
 {% hint style="info" icon="book-open" %}
-目前收录《旧约·魔法禁书目录》第一卷至第二十一卷及SS1、SS2。更多卷目将陆续加入。
+目前收录《旧约·魔法禁书目录》第一卷至第二十二卷及SS1、SS2。更多卷目将陆续加入。
 {% endhint %}
 
 ## 卷目
@@ -60,5 +60,6 @@ layout:
     <tr><td><strong>第十九卷</strong></td><td>学园都市「暗部」再起波澜。</td><td><a href="https://cnindex.gitbook.io/jiu-yue/ot19">进入第十九卷</a></td><td><a href="assets/ot19.jpg">ot19.jpg</a></td></tr>
     <tr><td><strong>第二十卷</strong></td><td>第三次世界大战爆发，三名少年奔赴前线。</td><td><a href="https://cnindex.gitbook.io/jiu-yue/ot20">进入第二十卷</a></td><td><a href="assets/ot20.jpg">ot20.jpg</a></td></tr>
     <tr><td><strong>第二十一卷</strong></td><td>俄罗斯战场上，三名少年的战斗继续。</td><td><a href="https://cnindex.gitbook.io/jiu-yue/ot21">进入第二十一卷</a></td><td><a href="assets/ot21.jpg">ot21.jpg</a></td></tr>
+    <tr><td><strong>第二十二卷</strong></td><td>俄罗斯篇完结，上条的命运迎来终局。</td><td><a href="https://cnindex.gitbook.io/jiu-yue/ot22">进入第二十二卷</a></td><td><a href="assets/ot22.jpg">ot22.jpg</a></td></tr>
   </tbody>
 </table>

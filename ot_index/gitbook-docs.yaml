@@ -171,3 +171,10 @@ site:
       content:
         directory: ./ot21
         language: zh
+    - type: space
+      key: space-indexot22
+      title: 旧约·魔法禁书目录22
+      path: ot22
+      content:
+        directory: ./ot22
+        language: zh
