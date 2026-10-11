@@ -24,3 +24,10 @@ site:
       content:
         directory: ./nt2
         language: zh
+    - type: space
+      key: space-indexnt3
+      title: 新约·魔法禁书目录3
+      path: nt3
+      content:
+        directory: ./nt3
+        language: zh
