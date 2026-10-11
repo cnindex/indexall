@@ -1,5 +1,5 @@
 ---
-description: "《新约·魔法禁书目录》系列中文阅读站，收录第一卷至第十一卷。"
+description: "《新约·魔法禁书目录》系列中文阅读站，收录第一卷至第十二卷。"
 icon: books
 layout:
   width: wide
@@ -22,7 +22,7 @@ layout:
 没有上条当麻的世界，故事由此迈向新的阶段。
 
 {% hint style="info" icon="book-open" %}
-目前收录《新约·魔法禁书目录》第一卷至第十一卷。更多卷目将陆续加入。
+目前收录《新约·魔法禁书目录》第一卷至第十二卷。更多卷目将陆续加入。
 {% endhint %}
 
 ## 卷目
@@ -48,5 +48,6 @@ layout:
     <tr><td><strong>第九卷</strong></td><td>毁灭世界后，只剩欧提努斯与另一个人。</td><td><a href="https://cnindex.gitbook.io/xin-yue-xi-lie/nt9">进入第九卷</a></td><td><a href="assets/nt9.jpg">nt9.jpg</a></td></tr>
     <tr><td><strong>第十卷</strong></td><td>最恶的敌人成为守护对象，最强伙伴化为障壁。</td><td><a href="https://cnindex.gitbook.io/xin-yue-xi-lie/nt10">进入第十卷</a></td><td><a href="assets/nt10.jpg">nt10.jpg</a></td></tr>
     <tr><td><strong>第十一卷</strong></td><td>新女主角食蜂操祈登场。</td><td><a href="https://cnindex.gitbook.io/xin-yue-xi-lie/nt11">进入第十一卷</a></td><td><a href="assets/nt11.jpg">nt11.jpg</a></td></tr>
+    <tr><td><strong>第十二卷</strong></td><td>上条在「类钻」中与魔神圣日耳曼相遇。</td><td><a href="https://cnindex.gitbook.io/xin-yue-xi-lie/nt12">进入第十二卷</a></td><td><a href="assets/nt12.jpg">nt12.jpg</a></td></tr>
   </tbody>
 </table>
