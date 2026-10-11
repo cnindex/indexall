@@ -80,3 +80,10 @@ site:
       content:
         directory: ./nt10
         language: zh
+    - type: space
+      key: space-indexnt11
+      title: 新约·魔法禁书目录11
+      path: nt11
+      content:
+        directory: ./nt11
+        language: zh
